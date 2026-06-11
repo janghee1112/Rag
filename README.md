@@ -245,7 +245,7 @@ streamlit run app.py
 
 ## GitHub Repository
 
-text https://github.com/janghee1112/rag-detective-game 
+text https://github.com/janghee1112/RAG 
 
 ---
 
